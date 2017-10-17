@@ -18,6 +18,10 @@
           <option name="url" value="https://gitlab.com/puraseriedad1/impulsApp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/B4_ImpulsApp/4B_3erSprint.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Halee\AndroidStudioProjects\" />
